@@ -1,0 +1,44 @@
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.GridLayout;
+import java.awt.TextField;
+import java.awt.geom.GeneralPath;
+import java.awt.geom.Rectangle2D;
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		JFrame.setDefaultLookAndFeelDecorated(true);
+	    JFrame frame = new JFrame("American Flag");
+	    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	    frame.setBackground(Color.white);
+	    frame.setSize(350, 250);
+	    
+	    AmericanFlag panel = new AmericanFlag();
+	    AmericanFlagBlack panelBlack = new AmericanFlagBlack();
+	    BetsyFlag betsy = new BetsyFlag();
+	    BetsyBlack betsyBlack = new BetsyBlack();
+	    
+	 
+	    frame.add(betsy);
+	    frame.add(panel);
+	    frame.add(betsyBlack);
+	    frame.add(panelBlack);
+	    
+	    
+	    frame.setLayout(new GridLayout(3,2));
+	    TextField textField = new TextField("Tuncer 2021 CS 2324");
+	    frame.add(new JLabel("Tuncer 2021 CS 2324"), BorderLayout.AFTER_LAST_LINE);
+//	    frame.add(textField);
+	    frame.setVisible(true);
+
+	}
+	
+}

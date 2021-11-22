@@ -1,0 +1,54 @@
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.GridLayout;
+import java.awt.TextField;
+import java.awt.geom.GeneralPath;
+import java.awt.geom.Rectangle2D;
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JTextField;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		JFrame.setDefaultLookAndFeelDecorated(true);
+		JFrame frameJ = new JFrame();
+	    JPanel frame = new JPanel();
+	    JPanel borderFrame = new JPanel();
+	    borderFrame.setLayout(new BorderLayout());
+	    frameJ.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	    frameJ.setBackground(Color.white);
+	    frameJ.setSize(350, 250);
+	    
+	    AmericanFlag panel = new AmericanFlag();
+	    AmericanFlagBlack panelBlack = new AmericanFlagBlack();
+	    BetsyFlag betsy = new BetsyFlag();
+	    BetsyBlack betsyBlack = new BetsyBlack();
+	    
+	 
+	    frame.add(betsy);
+	    frame.add(betsyBlack);
+	    frame.add(panel);
+	    frame.add(panelBlack);
+	    JTextField textField = new JTextField();
+	    textField.setText("Tuncer Schmidt Computer Science 2334 113453738");
+	    textField.setHorizontalAlignment(textField.CENTER);
+	    textField.setSize((int)(.4 * frameJ.getSize().getWidth()), (int)(.53846 * frameJ.getSize().getHeight()));
+
+	    frame.setLayout(new GridLayout(2,2));
+	   // TextField textField = new TextField("Tuncer 2021 CS 2324");
+	   // JPanel newFrame = new JPanel(new BorderLayout());
+//	    frame.add(textField);
+	    borderFrame.add(frame, BorderLayout.CENTER);
+	    borderFrame.add(textField,BorderLayout.SOUTH );
+	    frameJ.setContentPane(borderFrame);
+	    frameJ.setVisible(true);
+
+	}
+	
+}

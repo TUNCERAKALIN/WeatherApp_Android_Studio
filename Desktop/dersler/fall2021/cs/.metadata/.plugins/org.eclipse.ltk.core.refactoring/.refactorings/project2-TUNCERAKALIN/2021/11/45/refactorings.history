@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;project2-TUNCERAKALIN/Car.UML.pdf&apos; to &apos;project UML .pdf&apos;" description="Rename resource &apos;Car.UML.pdf&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Car.UML.pdf" name="project UML .pdf" stamp="1636010150231" updateReferences="true"/>
+</session>

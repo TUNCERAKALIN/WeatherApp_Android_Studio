@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
+	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-16"/>
+	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
+		<item key="group_libraries" value="true"/>
+		<item key="layout" value="2"/>
+		<item key="rootMode" value="1"/>
+		<item key="linkWithEditor" value="false"/>
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;packageExplorer group_libraries=&quot;1&quot; layout=&quot;2&quot; linkWithEditor=&quot;0&quot; rootMode=&quot;1&quot; workingSetName=&quot;Aggregate for window 1629910465224&quot;&gt;&#x0A;&lt;customFilters userDefinedPatternsEnabled=&quot;false&quot;&gt;&#x0A;&lt;xmlDefinedFilters&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.StaticsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.buildfolder&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.m2e.MavenModuleFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.buildship.ui.packageexplorer.filter.gradle.subProject&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.DeprecatedMembersFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter&quot; isEnabled=&quot;true&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LibraryFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;child filterId=&quot;org.eclipse.jdt.ui.PackageExplorer.FieldsFilter&quot; isEnabled=&quot;false&quot;/&gt;&#x0A;&lt;/xmlDefinedFilters&gt;&#x0A;&lt;/customFilters&gt;&#x0A;&lt;/packageExplorer&gt;"/>
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="OptionalMessageDialog.hide.">
+		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+		<item key="configure_problem_severity_dialog_id" value="false"/>
+	</section>
+	<section name="NewClassWizardPage">
+		<item key="create_constructor" value="false"/>
+		<item key="create_unimplemented" value="false"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+	<section name="quick_assist_proposal_size">
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+	</section>
+	<section name="AddGetterSetterDialog">
+		<item key="SortOrdering" value="false"/>
+		<item key="RemoveFinal" value="false"/>
+	</section>
+	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="442"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="557"/>
+		<item key="DIALOG_HEIGHT" value="636"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="SourceActionDialog.constructors">
+		<item key="VisibilityModifier" value="1"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="SynchronizedModifier" value="false"/>
+		<item key="Comments" value="false"/>
+	</section>
+	<section name="GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="OmitCallToSuper" value="false"/>
+	</section>
+	<section name="DialogBounds_GenerateConstructorUsingFieldsSelectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="446"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="549"/>
+		<item key="DIALOG_HEIGHT" value="617"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="JavaSearchPage">
+		<item key="CASE_SENSITIVE" value="false"/>
+		<item key="INCLUDE_MASK" value="11"/>
+		<item key="HISTORY_SIZE" value="0"/>
+	</section>
+	<section name="JavadocWizardDialog">
+		<item key="DIALOG_X_ORIGIN" value="297"/>
+		<item key="DIALOG_Y_ORIGIN" value="43"/>
+		<item key="DIALOG_WIDTH" value="846"/>
+		<item key="DIALOG_HEIGHT" value="528"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="javadoc">
+		<item key="javadoc_command_history" value="/Users/tuncerakalin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_16.0.1.v20210528-1205/jre/bin/javadoc"/>
+		<item key="fromStandard" value="true"/>
+		<item key="docletname" value=""/>
+		<item key="docletpath" value=""/>
+		<item key="access" value="public"/>
+		<item key="use" value="true"/>
+		<item key="author" value="true"/>
+		<item key="version" value="true"/>
+		<item key="nodeprecated" value="false"/>
+		<item key="nodeprecatedlist" value="false"/>
+		<item key="splitindex" value="true"/>
+		<item key="noindex" value="false"/>
+		<item key="notree" value="false"/>
+		<item key="nonavbar" value="false"/>
+		<item key="openinbrowser" value="false"/>
+		<item key="source" value="16"/>
+		<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project3-TUNCERAKALIN/javadoc.xml"/>
+		<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project3-TUNCERAKALIN/doc"/>
+		<section name="projects">
+			<section name="lab4-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab4-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab4-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="boxer">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/boxer/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/boxer/javadoc.xml"/>
+			</section>
+			<section name="deneme">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/deneme/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/deneme/javadoc.xml"/>
+			</section>
+			<section name="project3-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project3-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project3-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="lab2-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab2-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab2-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="lab7-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab7-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab7-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="project1-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project1-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project1-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="lab5-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab5-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab5-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="test">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/test/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/test/javadoc.xml"/>
+			</section>
+			<section name="lab8-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab8-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab8-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="lab3-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab3-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab3-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="project2-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project2-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/project2-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="cp1-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/cp1-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/cp1-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="lab1-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab1-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab1-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+			<section name="lab6-TUNCERAKALIN">
+				<item key="href" value=""/>
+				<item key="destdir" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab6-TUNCERAKALIN/doc"/>
+				<item key="antpath" value="/Users/tuncerakalin/Desktop/dersler/fall2021/cs/lab6-TUNCERAKALIN/javadoc.xml"/>
+			</section>
+		</section>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item key="showtypes" value="true"/>
+	</section>
+	<section name="DialogBounds_OverrideMethodDialog">
+		<item key="DIALOG_X_ORIGIN" value="463"/>
+		<item key="DIALOG_Y_ORIGIN" value="91"/>
+		<item key="DIALOG_WIDTH" value="515"/>
+		<item key="DIALOG_HEIGHT" value="456"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.typehierarchy.QuickHierarchy">
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_WIDTH" value="361"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_HEIGHT" value="280"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.jdt.internal.ui.typehierarchy.HierarchyInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
+</section>
